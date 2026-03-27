@@ -1,9 +1,6 @@
 {
 "prompt": "A hyper-realistic surreal image of human lungs made from a dense city like Delhi, buildings forming the lung structure, thick black smog filling and corroding the lungs from inside, parts of the lungs turning dark and crumbling into ash, cinematic lighting, highly detailed, emotional, no text, no labels, no charts, single frame",
 "model": "DALL·E 3",
-"dataset_name": "Delhi Air Quality Dataset",
-"dataset_url": "https://www.kaggle.com/datasets/kunshbhatia/delhi-air-quality-dataset",
-"insight": "Delhi’s air pollution is turning every breath into a slow form of damage",
-"concept": "Air pollution as an internal, invisible threat to human life",
-"metaphor": "Human lungs constructed from a polluted city, showing how urban air directly damages breathing"
+"concept": "Air pollution as an invisible but deadly force affecting human life",
+"metaphor": "A city forming human lungs that are being destroyed by pollution"
 }
